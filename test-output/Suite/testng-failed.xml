@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Login Tests(failed)">
+    <classes>
+      <class name="testcases.Login_Testcase">
+        <methods>
+          <include name="testLoginWithValidCredentials"/>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="testLoginWithInvalidCredentials"/>
+        </methods>
+      </class> <!-- testcases.Login_Testcase -->
+    </classes>
+  </test> <!-- Login Tests(failed) -->
+  <test thread-count="5" name="Login Functional Tests with Data-Driven(failed)">
+    <classes>
+      <class name="testcases.Login_Testcase">
+        <methods>
+          <include name="testLoginWithValidCredentials"/>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="testLoginWithInvalidCredentials"/>
+        </methods>
+      </class> <!-- testcases.Login_Testcase -->
+    </classes>
+  </test> <!-- Login Functional Tests with Data-Driven(failed) -->
+</suite> <!-- Failed suite [Suite] -->
