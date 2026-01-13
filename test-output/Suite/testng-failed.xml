@@ -5,10 +5,11 @@
     <classes>
       <class name="testcases.Login_Testcase">
         <methods>
-          <include name="testLoginWithValidCredentials"/>
-          <include name="openBrowser"/>
-          <include name="closeBrowser"/>
-          <include name="testLoginWithInvalidCredentials"/>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="teardown"/>
+          <include name="beforeSuite"/>
+          <include name="validLogin" invocation-numbers="1 2 3"/>
         </methods>
       </class> <!-- testcases.Login_Testcase -->
     </classes>
@@ -17,10 +18,11 @@
     <classes>
       <class name="testcases.Login_Testcase">
         <methods>
-          <include name="testLoginWithValidCredentials"/>
-          <include name="openBrowser"/>
-          <include name="closeBrowser"/>
-          <include name="testLoginWithInvalidCredentials"/>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="teardown"/>
+          <include name="beforeSuite"/>
+          <include name="validLogin" invocation-numbers="1 2 3"/>
         </methods>
       </class> <!-- testcases.Login_Testcase -->
     </classes>

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-17T16:54:41 IST" name="Default suite" finished-at="2025-12-17T16:55:04 IST" duration-ms="22369">
+  <suite started-at="2026-01-08T19:05:30 IST" name="Default suite" finished-at="2026-01-08T19:05:56 IST" duration-ms="25042">
     <groups>
     </groups>
-    <test started-at="2025-12-17T16:54:41 IST" name="Default test" finished-at="2025-12-17T16:55:04 IST" duration-ms="22369">
+    <test started-at="2026-01-08T19:05:30 IST" name="Default test" finished-at="2026-01-08T19:05:56 IST" duration-ms="25042">
       <class name="testcases.Login_Testcase">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:41 IST" name="beforeSuite" finished-at="2025-12-17T16:54:41 IST" duration-ms="425" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:30 IST" name="beforeSuite" finished-at="2026-01-08T19:05:30 IST" duration-ms="618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:43 IST" name="setup" finished-at="2025-12-17T16:54:47 IST" duration-ms="3938" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:32 IST" name="setup" finished-at="2026-01-08T19:05:37 IST" duration-ms="4607" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:47 IST" name="validLogin" data-provider="loginData" finished-at="2025-12-17T16:54:49 IST" duration-ms="1814" status="PASS">
+        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:37 IST" name="validLogin" data-provider="loginData" finished-at="2026-01-08T19:05:39 IST" duration-ms="1876" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -38,11 +38,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:49 IST" name="teardown" finished-at="2025-12-17T16:54:49 IST" duration-ms="491" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:39 IST" name="teardown" finished-at="2026-01-08T19:05:40 IST" duration-ms="565" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:49 IST" name="setup" finished-at="2025-12-17T16:54:52 IST" duration-ms="2518" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:40 IST" name="setup" finished-at="2026-01-08T19:05:43 IST" duration-ms="3003" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:52 IST" name="validLogin" data-provider="loginData" finished-at="2025-12-17T16:54:54 IST" duration-ms="1884" status="FAIL">
+        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:43 IST" name="validLogin" data-provider="loginData" finished-at="2026-01-08T19:05:45 IST" duration-ms="1993" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -76,8 +76,8 @@ at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.failNotEquals(Assert.java:1590)
 at org.testng.Assert.assertTrue(Assert.java:57)
 at testcases.Login_Testcase.validLogin(Login_Testcase.java:39)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:565)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
 at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
 at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
@@ -86,7 +86,7 @@ at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInv
 at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
 at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
 at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
 at org.testng.TestRunner.privateRun(TestRunner.java:741)
 at org.testng.TestRunner.run(TestRunner.java:616)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
@@ -108,11 +108,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:54 IST" name="teardown" finished-at="2025-12-17T16:54:54 IST" duration-ms="389" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:45 IST" name="teardown" finished-at="2026-01-08T19:05:45 IST" duration-ms="426" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:54 IST" name="setup" finished-at="2025-12-17T16:54:56 IST" duration-ms="2346" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:45 IST" name="setup" finished-at="2026-01-08T19:05:48 IST" duration-ms="2825" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,7 +123,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:56 IST" name="validLogin" data-provider="loginData" finished-at="2025-12-17T16:54:58 IST" duration-ms="1845" status="FAIL">
+        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:48 IST" name="validLogin" data-provider="loginData" finished-at="2026-01-08T19:05:50 IST" duration-ms="1914" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -146,8 +146,8 @@ at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.failNotEquals(Assert.java:1590)
 at org.testng.Assert.assertTrue(Assert.java:57)
 at testcases.Login_Testcase.validLogin(Login_Testcase.java:39)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:565)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
 at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
 at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
@@ -156,7 +156,7 @@ at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInv
 at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
 at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
 at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
 at org.testng.TestRunner.privateRun(TestRunner.java:741)
 at org.testng.TestRunner.run(TestRunner.java:616)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
@@ -178,11 +178,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:58 IST" name="teardown" finished-at="2025-12-17T16:54:59 IST" duration-ms="725" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:50 IST" name="teardown" finished-at="2026-01-08T19:05:50 IST" duration-ms="468" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:54:59 IST" name="setup" finished-at="2025-12-17T16:55:02 IST" duration-ms="2551" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:50 IST" name="setup" finished-at="2026-01-08T19:05:53 IST" duration-ms="2732" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -193,7 +193,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:55:02 IST" name="validLogin" data-provider="loginData" finished-at="2025-12-17T16:55:03 IST" duration-ms="1861" status="FAIL">
+        <test-method signature="validLogin(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:53 IST" name="validLogin" data-provider="loginData" finished-at="2026-01-08T19:05:55 IST" duration-ms="1960" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -216,8 +216,8 @@ at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.failNotEquals(Assert.java:1590)
 at org.testng.Assert.assertTrue(Assert.java:57)
 at testcases.Login_Testcase.validLogin(Login_Testcase.java:39)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:565)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
 at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
 at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
@@ -226,7 +226,7 @@ at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInv
 at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
 at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
 at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
 at org.testng.TestRunner.privateRun(TestRunner.java:741)
 at org.testng.TestRunner.run(TestRunner.java:616)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
@@ -248,11 +248,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:55:03 IST" name="teardown" finished-at="2025-12-17T16:55:04 IST" duration-ms="384" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:55 IST" name="teardown" finished-at="2026-01-08T19:05:56 IST" duration-ms="549" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcases.Login_Testcase@740abb5]" started-at="2025-12-17T16:55:04 IST" name="afterSuite" finished-at="2025-12-17T16:55:04 IST" duration-ms="562" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcases.Login_Testcase@4ef27d66]" started-at="2026-01-08T19:05:56 IST" name="afterSuite" finished-at="2026-01-08T19:05:56 IST" duration-ms="585" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

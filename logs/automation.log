@@ -349,3 +349,79 @@ Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: tru
 2025-12-17 16:55:02 [INFO] Clicked login button
 2025-12-17 16:55:04 [INFO] Browser closed
 2025-12-17 16:55:04 [INFO] ExtentReports flushed
+2026-01-08 18:48:56 [INFO] ExtentReports initialized at C:\Users\hp\Documents\SELENIUM_WORKSPACE\Saucedemo_Automation_Project/test-output/ExtentReport.html
+2026-01-08 18:49:07 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:08 [INFO] Starting login test for user standard_user
+2026-01-08 18:49:08 [INFO] Entered username: standard_user
+2026-01-08 18:49:08 [INFO] Entered password
+2026-01-08 18:49:08 [INFO] Clicked login button
+2026-01-08 18:49:10 [INFO] Browser closed
+2026-01-08 18:49:13 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:13 [INFO] Starting login test for user standard_user
+2026-01-08 18:49:13 [INFO] Entered username: standard_user
+2026-01-08 18:49:14 [INFO] Entered password
+2026-01-08 18:49:14 [INFO] Clicked login button
+2026-01-08 18:49:15 [INFO] Browser closed
+2026-01-08 18:49:18 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:18 [INFO] Starting login test for user userdemo
+2026-01-08 18:49:19 [INFO] Entered username: userdemo
+2026-01-08 18:49:19 [INFO] Entered password
+2026-01-08 18:49:19 [INFO] Clicked login button
+2026-01-08 18:49:21 [INFO] Browser closed
+2026-01-08 18:49:23 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:23 [INFO] Starting login test for user userdemo
+2026-01-08 18:49:24 [INFO] Entered username: userdemo
+2026-01-08 18:49:24 [INFO] Entered password
+2026-01-08 18:49:24 [INFO] Clicked login button
+2026-01-08 18:49:26 [INFO] Browser closed
+2026-01-08 18:49:28 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:28 [INFO] Starting login test for user standard_user
+2026-01-08 18:49:29 [INFO] Entered username: standard_user
+2026-01-08 18:49:29 [INFO] Entered password
+2026-01-08 18:49:29 [INFO] Clicked login button
+2026-01-08 18:49:31 [INFO] Browser closed
+2026-01-08 18:49:34 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:34 [INFO] Starting login test for user standard_user
+2026-01-08 18:49:34 [INFO] Entered username: standard_user
+2026-01-08 18:49:34 [INFO] Entered password
+2026-01-08 18:49:35 [INFO] Clicked login button
+2026-01-08 18:49:36 [INFO] Browser closed
+2026-01-08 18:49:39 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:39 [INFO] Starting login test for user userdemo
+2026-01-08 18:49:39 [INFO] Entered username: userdemo
+2026-01-08 18:49:40 [INFO] Entered password
+2026-01-08 18:49:40 [INFO] Clicked login button
+2026-01-08 18:49:42 [INFO] Browser closed
+2026-01-08 18:49:44 [INFO] Browser started and navigated to saucedemo
+2026-01-08 18:49:44 [INFO] Starting login test for user userdemo
+2026-01-08 18:49:45 [INFO] Entered username: userdemo
+2026-01-08 18:49:45 [INFO] Entered password
+2026-01-08 18:49:45 [INFO] Clicked login button
+2026-01-08 18:49:47 [INFO] Browser closed
+2026-01-08 18:49:47 [INFO] ExtentReports flushed
+2026-01-08 19:05:30 [INFO] ExtentReports initialized at C:\Users\hp\Documents\SELENIUM_WORKSPACE\Saucedemo_Automation_Project/test-output/ExtentReport.html
+2026-01-08 19:05:37 [INFO] Browser started and navigated to saucedemo
+2026-01-08 19:05:37 [INFO] Starting login test for user standard_user
+2026-01-08 19:05:38 [INFO] Entered username: standard_user
+2026-01-08 19:05:38 [INFO] Entered password
+2026-01-08 19:05:38 [INFO] Clicked login button
+2026-01-08 19:05:40 [INFO] Browser closed
+2026-01-08 19:05:43 [INFO] Browser started and navigated to saucedemo
+2026-01-08 19:05:43 [INFO] Starting login test for user standard_user
+2026-01-08 19:05:43 [INFO] Entered username: standard_user
+2026-01-08 19:05:43 [INFO] Entered password
+2026-01-08 19:05:43 [INFO] Clicked login button
+2026-01-08 19:05:45 [INFO] Browser closed
+2026-01-08 19:05:48 [INFO] Browser started and navigated to saucedemo
+2026-01-08 19:05:48 [INFO] Starting login test for user userdemo
+2026-01-08 19:05:48 [INFO] Entered username: userdemo
+2026-01-08 19:05:48 [INFO] Entered password
+2026-01-08 19:05:49 [INFO] Clicked login button
+2026-01-08 19:05:50 [INFO] Browser closed
+2026-01-08 19:05:53 [INFO] Browser started and navigated to saucedemo
+2026-01-08 19:05:53 [INFO] Starting login test for user userdemo
+2026-01-08 19:05:53 [INFO] Entered username: userdemo
+2026-01-08 19:05:54 [INFO] Entered password
+2026-01-08 19:05:54 [INFO] Clicked login button
+2026-01-08 19:05:56 [INFO] Browser closed
+2026-01-08 19:05:56 [INFO] ExtentReports flushed
