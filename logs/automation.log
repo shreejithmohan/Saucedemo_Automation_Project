@@ -425,3 +425,55 @@ Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: tru
 2026-01-08 19:05:54 [INFO] Clicked login button
 2026-01-08 19:05:56 [INFO] Browser closed
 2026-01-08 19:05:56 [INFO] ExtentReports flushed
+2026-01-13 13:17:41 [INFO] ExtentReports initialized at C:\Users\hp\Documents\SELENIUM_WORKSPACE\Saucedemo_Automation_Project/test-output/ExtentReport.html
+2026-01-13 13:17:51 [INFO] Browser started and navigated to saucedemo
+2026-01-13 13:17:51 [INFO] Starting login test for user standard_user
+2026-01-13 13:17:51 [INFO] Entered username: standard_user
+2026-01-13 13:17:52 [INFO] Entered password
+2026-01-13 13:17:52 [INFO] Clicked login button
+2026-01-13 13:17:54 [INFO] Browser closed
+2026-01-13 13:17:57 [INFO] Browser started and navigated to saucedemo
+2026-01-13 13:17:57 [INFO] Starting login test for user standard_user
+2026-01-13 13:17:58 [INFO] Entered username: standard_user
+2026-01-13 13:17:58 [INFO] Entered password
+2026-01-13 13:17:58 [INFO] Clicked login button
+2026-01-13 13:18:00 [INFO] Browser closed
+2026-01-13 13:18:04 [INFO] Browser started and navigated to saucedemo
+2026-01-13 13:18:04 [INFO] Starting login test for user userdemo
+2026-01-13 13:18:04 [INFO] Entered username: userdemo
+2026-01-13 13:18:04 [INFO] Entered password
+2026-01-13 13:18:04 [INFO] Clicked login button
+2026-01-13 13:18:06 [INFO] Browser closed
+2026-01-13 13:18:14 [INFO] Browser started and navigated to saucedemo
+2026-01-13 13:18:14 [INFO] Starting login test for user userdemo
+2026-01-13 13:18:14 [INFO] Entered username: userdemo
+2026-01-13 13:18:14 [INFO] Entered password
+2026-01-13 13:18:14 [INFO] Clicked login button
+2026-01-13 13:18:16 [INFO] Browser closed
+2026-01-13 13:18:17 [INFO] ExtentReports flushed
+2026-01-13 14:27:30 [INFO] ExtentReports initialized at C:\Users\hp\Documents\SELENIUM_WORKSPACE\Saucedemo_Automation_Project/test-output/ExtentReport.html
+2026-01-13 14:27:38 [INFO] Browser started and navigated to saucedemo
+2026-01-13 14:27:39 [INFO] Starting login test for user standard_user
+2026-01-13 14:27:39 [INFO] Entered username: standard_user
+2026-01-13 14:27:39 [INFO] Entered password
+2026-01-13 14:27:39 [INFO] Clicked login button
+2026-01-13 14:27:41 [INFO] Browser closed
+2026-01-13 14:27:44 [INFO] Browser started and navigated to saucedemo
+2026-01-13 14:27:44 [INFO] Starting login test for user standard_user
+2026-01-13 14:27:44 [INFO] Entered username: standard_user
+2026-01-13 14:27:44 [INFO] Entered password
+2026-01-13 14:27:45 [INFO] Clicked login button
+2026-01-13 14:27:46 [INFO] Browser closed
+2026-01-13 14:27:49 [INFO] Browser started and navigated to saucedemo
+2026-01-13 14:27:49 [INFO] Starting login test for user userdemo
+2026-01-13 14:27:49 [INFO] Entered username: userdemo
+2026-01-13 14:27:50 [INFO] Entered password
+2026-01-13 14:27:50 [INFO] Clicked login button
+2026-01-13 14:27:51 [INFO] Browser closed
+2026-01-13 14:27:54 [INFO] Browser started and navigated to saucedemo
+2026-01-13 14:27:54 [INFO] Starting login test for user userdemo
+2026-01-13 14:27:54 [INFO] Entered username: userdemo
+2026-01-13 14:27:54 [INFO] Entered password
+2026-01-13 14:27:54 [INFO] Clicked login button
+2026-01-13 14:27:56 [INFO] Browser closed
+2026-01-13 14:27:56 [INFO] ExtentReports flushed

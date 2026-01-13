@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite"><!-- Register the test listener for Extent Report -->
-
- <!-- Test Configuration -->
-	<test name="Login Tests" preserve-order="true">
-		<classes>
-			<class name="testcases.Login_Testcase">
-				<!-- Sanity Tests -->
-				<groups>
-					<include name="testLoginPageLoad" ></include>
-					<include name="testLoginPageTitle" ></include>
-					
-				</groups>
-			</class>
-		</classes>
-	</test> 
-	
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
 	<!-- Functional Tests with Data-Driven Approach -->
 	<test name="Login Functional Tests with Data-Driven" preserve-order="true">
 		<classes>
 			<class name="testcases.Login_Testcase">
-				<groups>
-					<include name="testLoginWithValidCredentials" ></include>
-					<include name="testLoginWithInvalidCredentials" ></include>
-				</groups>
+				<methods>
+					<include name="login_testcase" ></include>
+				</methods>
 			</class>
 		</classes>
 	</test>

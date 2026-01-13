@@ -20,7 +20,7 @@ public class Login_Testcase extends BaseTest {
     }
 
     @Test(dataProvider = "loginData")
-    public void validLogin(String username, String password) {
+    public void login_testcase(String username, String password) {
         LoginPage_POM login = new LoginPage_POM(driver);
         log.info("Starting login test for user {}", username);
         testReporter.info("Attempting login for " + username);
